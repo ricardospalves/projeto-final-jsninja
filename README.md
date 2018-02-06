@@ -1,2 +1,1 @@
-# projeto-final-jsninja
-Projeto final do curso JavaScript Ninja
+# Projeto final do curso JavaScript Ninja
